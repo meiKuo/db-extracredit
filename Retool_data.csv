@@ -1,0 +1,13 @@
+﻿review_id ,username ,time_stamp ,chewiness ,crispiness ,sweetness ,cakeyness ,description 
+2000,chuckfong,2022-03-22 21:21:00 UTC,None,None,None,None,Delicious!
+2001,cindywong,2022-03-22 21:22:00 UTC,5,4,3,2,None
+2002,madisonfong,2022-03-22 21:23:00 UTC,None,None,None,None,very very tasty
+2003,jasminefong,2022-03-22 21:24:00 UTC,2,5,5,1,None
+2004,austinfong,2022-03-22 21:25:00 UTC,None,None,None,None,try some more butter
+2005,takarakuo,2022/3/22 21:23,None,None,None,None,wow
+2006,takarakuo,2022/3/23 7:23,5,3,3,4,None
+2007,hikarikuo,2022/3/23 7:24,5,3,3,4,None
+2008,takarakuo,2022/3/23 7:25,1,3,3,4,None
+2009,frankkuo,2022/3/23 7:26,None,None,None,None,       
+2010,jasminefong,2022-03-23 22:10:00 UTC,3,5,2,1,None
+,,,,,,,
